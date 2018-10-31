@@ -22,7 +22,7 @@ MongoClient.connect(dbUrl, connectOptions, (err, client) => {
 
   //  db.collection('Todos').find().count().then((count) => {
   //     console.log(`Todos count: ${count}`);
-  //   }, (err) => {
+  //   }, (err) => {git remote add origin https://github.com/OlivierRiccini/node-todo-api.git
   //   console.log('Unable to fetch todos', err);
   // });
 
